@@ -147,7 +147,7 @@
 
 1. If you don't have a Heroku account, create one.
     <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Create Account-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://khanxd.onrender.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Create Account-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 2. Deploy the bot.
     ----------------
