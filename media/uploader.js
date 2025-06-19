@@ -78,7 +78,7 @@ export const webp2mp4File = async (path) => {
       const result = 'https:' + $2('div#output > p.outfile > video > source').attr('src');
       resolve({
         status: true,
-        message: "Created By KHAN-MD",
+        message: "Created By DRAXEN-Ai",
         result: result
       });
     } catch (err) {
