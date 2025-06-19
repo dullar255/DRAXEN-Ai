@@ -219,11 +219,11 @@ const menu = async (m, Matrix) => {
         menuImage = Buffer.from(response.data, 'binary');
       } catch (error) {
         console.error('Error fetching menu image from URL, falling back to local image:', error);
-        menuImage = fs.readFileSync('./media/khan.jpg');
+        menuImage = fs.readFileSync('./media/draxen.jpg');
       }
     } else {
       // Use local image if MENU_IMAGE is not configured
-      menuImage = fs.readFileSync('./media/khan.jpg');
+      menuImage = fs.readFileSync('./media/draxen.jpg');
     }
 
 await Matrix.sendMessage(m.from, {
