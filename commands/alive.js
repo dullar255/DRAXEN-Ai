@@ -1,7 +1,7 @@
 const settings = require("../settings");
 async function aliveCommand(sock, chatId) {
     try {
-        const message = `*🤖 MAKAMESCO-𝗠𝗗_𝗩2 is Active!*\n\n` +
+        const message = `*🤖 DRAXEN Ai is Active!*\n\n` +
                        `*Version:* ${settings.version}\n` +
                        `*Status:* Online\n` +
                        `*Mode:* Public\n\n` +
@@ -18,8 +18,8 @@ async function aliveCommand(sock, chatId) {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363418628641913@newsletter',
-                    newsletterName:'MAKAMESCO DIGITAL SOLUTIONS',
+                    newsletterJid: 'https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD',
+                    newsletterName:'DRAXEN DIGITAL SOLUTIONS',
                     serverMessageId: -1
                 }
             }
