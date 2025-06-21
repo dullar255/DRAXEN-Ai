@@ -70,12 +70,12 @@ async function instagramCommand(sock, chatId, message) {
                 await sock.sendMessage(chatId, {
                     video: { url: mediaUrl },
                     mimetype: "video/mp4",
-                    caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 SNOWBIRD XMD BOT"
+                    caption: "DOWNLOADED 𝗕𝗬 DRAXEN Ai 🤎"
                 }, { quoted: message });
             } else {
                 await sock.sendMessage(chatId, {
                     image: { url: mediaUrl },
-                    caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 SNOWBIRD XMD BOT"
+                    caption: "DOWNLOADED 𝗕𝗬 SNOWBIRD XMD BOT"
                 }, { quoted: message });
             }
         }
