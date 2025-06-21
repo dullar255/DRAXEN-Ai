@@ -141,6 +141,25 @@
 <a href='https://github.com/dullar255/DRAXEN-Ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
+---
+
+### Step 2: Get Pair Code
+
+Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+
+<div align="center">
+  <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+  </a>
+</div>
+
+
 ### After getting creds.json file, upload it to session folder
 
 ---
