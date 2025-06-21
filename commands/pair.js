@@ -5,13 +5,13 @@ async function pairCommand(sock, chatId, message, q) {
     try {
         if (!q) {
             return await sock.sendMessage(chatId, {
-                text: "Please provide valid WhatsApp number\nExample: .pair 263771XXXX",
+                text: "Please provide valid WhatsApp number\nExample: .pair 25575694XXXX",
                 contextInfo: {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363399707841760@newsletter',
-                        newsletterName:'SNOWBIRD-X𝙼𝙳',
+                        newsletterJid: 'https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD@newsletter',
+                        newsletterName:'DRAXEN Ai',
                         serverMessageId: -1
                     }
                 }
@@ -29,8 +29,8 @@ async function pairCommand(sock, chatId, message, q) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363399707841760@newsletter',
-                        newsletterName:'SNOWBIRD-XM𝙳',
+                        newsletterJid: 'https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD',
+                        newsletterName:'DRAXEN Ai',
                         serverMessageId: -1
                     }
                 }
@@ -48,8 +48,8 @@ async function pairCommand(sock, chatId, message, q) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363399707841760@newsletter',
-                            newsletterName:'SNOWBIRD-XM𝙳',
+                            newsletterJid: 'https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD@newsletter',
+                            newsletterName:'DRAXEN Ai',
                             serverMessageId: -1
                         }
                     }
@@ -62,8 +62,8 @@ async function pairCommand(sock, chatId, message, q) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363399707841760@newsletter',
-                        newsletterName:'SNOWBIRD-XM𝙳',
+                        newsletterJid: 'https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD@newsletter',
+                        newsletterName:'DRAXEN Ai',
                         serverMessageId: -1
                     }
                 }
