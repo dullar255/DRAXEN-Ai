@@ -85,8 +85,8 @@ async function pairCommand(sock, chatId, message, q) {
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363399707841760@newsletter',
-                                newsletterName: 'SNOWBIRD',
+                                newsletterJid: 'https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD',
+                                newsletterName: 'DRAXEN Ai',
                                 serverMessageId: -1
                             }
                         }
@@ -106,8 +106,8 @@ async function pairCommand(sock, chatId, message, q) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363399707841760@newsletter',
-                            newsletterName:'SNOWBIRD-XM𝙳',
+                            newsletterJid: 'https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD',
+                            newsletterName:'DRAXEN Ai',
                             serverMessageId: -1
                         }
                     }
@@ -122,8 +122,8 @@ async function pairCommand(sock, chatId, message, q) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363399707841760@newsletter',
-                    newsletterName:'SNOWBIRD-XM𝙳',
+                    newsletterJid: 'https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD',
+                    newsletterName:'DRAXEN Ai',
                     serverMessageId: -1
                 }
             }
