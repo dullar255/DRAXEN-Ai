@@ -75,7 +75,7 @@ async function instagramCommand(sock, chatId, message) {
             } else {
                 await sock.sendMessage(chatId, {
                     image: { url: mediaUrl },
-                    caption: "DOWNLOADED 𝗕𝗬 SNOWBIRD XMD BOT"
+                    caption: "DOWNLOADED 𝗕𝗬 DRAXEN Ai 🤎"
                 }, { quoted: message });
             }
         }
