@@ -1,14 +1,14 @@
 {
-  "name": "MAKAMESCO-MD MULT DEVICE",
-  "description": "MAKAMESCO-MD Whatsapp device bot made by Makamesco to help Whatsapp users to enjoy while helping...",
+  "name": "DRAXEN Ai MULT DEVICE",
+  "description": "DRAXEN-Ai Whatsapp device bot made by Dullah to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/sigghy.jpg",
-  "repository": "https://github.com/sesco001/Makamesco_Md",
+  "logo": "https://files.catbox.moe/n5tgsm.jpg",
+  "repository": "https://github.com/dullar255/DRAXEN-Ai",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -61,7 +61,7 @@
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
-      "value": "💲YOUR STATUS VIEWED BY 🙄MAKAMESCO-MD🙄SUCCESSFUL 😇✅✅",
+      "value": "💲YOUR STATUS VIEWED BY DRAXEN Ai SUCCESSFUL 😇✅✅",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -71,7 +71,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "🙄MAKAMESCO-MD 🙄",
+      "value": "DRAXEN Ai",
       "required": false 
     },
     "CHATBOT_INBOX": {
@@ -106,7 +106,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "MakaMEsco",
+      "value": "DRAXEN",
       "required": false
     },
     "URL": {
@@ -121,7 +121,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "254739285768",
+      "value": "255756715126",
       "required": false
     },
     "WARN_COUNT": {
@@ -131,7 +131,7 @@
     },
     "STARTING_BOT_MESSAGE": {
       "description": "Set 'yes' to display a starting bot message or 'no' to disable it",
-      "value": "yes",
+      "value": "no",
       "required": true
     },
     "PRESENCE": {
