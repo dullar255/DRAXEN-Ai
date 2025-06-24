@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 
 module.exports = async function quoteCommand(sock, chatId, message) {
     try {
-        const shizokeys = 'knightbot';
+        const shizokeys = 'Draxenai';
         const res = await fetch(`https://api.shizo.top/api/quote/quotes?apikey=${shizokeys}`);
         
         if (!res.ok) {
