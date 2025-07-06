@@ -4,15 +4,14 @@ const path = require('path');
 
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
-╔═══════════════════╗
-   *🤖 ${settings.botName || 'DRAXEN-Ai'}*  
-   Version: *${settings.version || '2.0.5'}*
-   by ${settings.botOwner || 'Mr Draxen Ai'}
-   YT : ${global.ytch}
-╚═══════════════════╝
+╔═════ ∘◦ ✧ ◦∘ 🤖 *${settings.botName || 'DRAXEN-Ai'}* ∘◦ ✧ ◦∘ ═════╗
+┃ 👑 *Owner:* ${settings.botOwner || 'Mr Draxen Ai'}
+┃ 🧩 *Version:* ${settings.version || '2.0.5'}
+┃ 🎬 *YouTube:* ${global.ytch || 'N/A'}
+┃ 📅 *Date:* ${new Date().toLocaleDateString('en-GB')}
+┃ 🕒 *Time:* ${new Date().toLocaleTimeString('en-GB')}
 
-*Available Commands:*
-
+╚═════ ∘◦ ✧ ◦∘ *Available Commands:* ∘◦ ✧ ◦∘ ═════
 ╔═══════════════════╗
 🌐 *General Commands*:
 ║ ➤ .help or .menu
